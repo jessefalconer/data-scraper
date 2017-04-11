@@ -1,0 +1,23 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "scrape data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "dependencies" : {
+  "express"    : "latest",
+  "request"    : "latest",
+  "cheerio"    : "latest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jessefalconer/scraper.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jesse Falconer",
+  "license": "ISC"
+}
